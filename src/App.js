@@ -19,7 +19,6 @@ export default class App extends React.Component {
   componentDidUpdate() {
     console.log("I just updated")
   }
-
   render() {
     console.log("I am rendering")
     return (
